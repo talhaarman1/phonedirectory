@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe.config
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.exe
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\bin\Debug\PhoneDirectory.pdb
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Create.resources
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form1.resources
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Properties.Resources.resources
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.exe
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.pdb
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.Form2.resources
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.SplashScreen.resources
+C:\Users\HP\source\repos\PhoneDirectory\PhoneDirectory\obj\Debug\PhoneDirectory.main.resources
